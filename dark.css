@@ -1,0 +1,27 @@
+html {
+  font-family: "Times New Roman", Times, serif;
+}
+
+body {
+  color: #ffffff;
+  background-color: #101010;
+}
+
+p {
+  color: #ffffff;
+}
+
+h1 {
+  color: #ffffff;
+}
+
+h2 {
+  color: #ffffff;
+}
+
+a:link {
+  color: #E0E0E0;
+
+a:visited {
+  color: #919191;
+}
